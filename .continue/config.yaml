@@ -1,0 +1,5 @@
+models:
+  - title: "My Local Model"
+    provider: "lm studio"
+    model: "qwen3-coder-30b-a3b-instruct"
+    apiBase: "http://localhost:1234/v1"
